@@ -21,7 +21,7 @@
     },
     "homepage": "https://github.com/auth0/ciam-identity-project/saml/#readme",
     "dependencies": {
-      "axios": "^0.27.2",
+      "axios": "^1.6.0",
       "dotenv": "^16.0.1",
       "express": "^4.18.1",
       "express-session": "^1.17.3",
